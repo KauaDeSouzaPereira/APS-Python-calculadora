@@ -47,5 +47,4 @@ Um programa em **Python** que calcula a pegada de carbono de uma empresa com bas
 .
 
 ├── main.py         # Código principal
-
 ├── README.md       # Documentação
