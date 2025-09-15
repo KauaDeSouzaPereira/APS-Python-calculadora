@@ -41,6 +41,7 @@ Um programa em **Python** que calcula a pegada de carbono de uma empresa com bas
    git clone https://github.com/KauaDeSouzaPereira/Calculadora-de-Carbono.git
    cd Calculadora-de-Carbono
 
+---
 
 📁 Estrutura do Projeto
 .
