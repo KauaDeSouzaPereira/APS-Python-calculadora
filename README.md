@@ -4,6 +4,7 @@ Um programa em **Python** que calcula a pegada de carbono de uma empresa com bas
 
 ![📄 License](https://img.shields.io/badge/license-MIT-green)
 ![Python Version](https://img.shields.io/badge/python-3.12-blue)
+![Last Commit](https://img.shields.io/github/last-commit/KauaDeSouzaPereira/Calculadora-de-Carbono)
 
 ---
 
@@ -46,7 +47,3 @@ Um programa em **Python** que calcula a pegada de carbono de uma empresa com bas
 ├── main.py         # Código principal
 
 ├── README.md       # Documentação
-
----
-
-![Last Commit](https://img.shields.io/github/last-commit/KauaDeSouzaPereira/Calculadora-de-Carbono)
