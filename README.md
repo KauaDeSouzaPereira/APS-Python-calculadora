@@ -42,10 +42,11 @@ Um programa em **Python** que calcula a pegada de carbono de uma empresa com bas
 
 
 📁 Estrutura do Projeto
-   .
+.
 ├── main.py         # Código principal
+
 ├── README.md       # Documentação
 
 ---
 
-![Last Commit](https://img.shields.io/github/last-commit/usuario/repositorio)
+![Last Commit](https://img.shields.io/github/last-commit/KauaDeSouzaPereira/Calculadora-de-Carbono)
